@@ -7,3 +7,7 @@ To Start Development Nodemon
 
 To Build from Typescript 
 `npm run buil`
+
+> The Target is Set to ES6 You Can Change it
+Enjoy Coding 
+Hidayat Arghandabi
